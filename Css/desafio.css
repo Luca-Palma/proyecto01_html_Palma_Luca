@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    background-color:rgb(221, 234, 200);
+    align-content: center;
+    justify-content: center;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(132, 201, 224);
+    border-radius: 5px 10px 50px 50px;
+    margin-top: 200px;
+}
+
+#div-medio{
+    background-color: brown;
+    transform:scale(-1);
+    margin-top: 100px;
+}
